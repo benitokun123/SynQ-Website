@@ -1,11 +1,13 @@
 import React from 'react';
 import styled from 'styled-components'
-import AboutClubPhoto from '../../Media Content/AboutClubPhoto.webp'
+import AboutClub from '../../Media Content/AboutClub.webp'
+import AboutClubPhone from '../../Media Content/AboutClubPhone.webp'
 
 const Box = styled.div`
+    height: 90vh;
     ::after{
         content: "";
-        background-image: url(${AboutClubPhoto});
+        background-image: url(${AboutClub});
         background-size: cover;
         background-position: center;
         top: 0;
@@ -14,6 +16,10 @@ const Box = styled.div`
         right: 0;
         position: absolute;
         z-index: -2;
+
+        @media screen and (max-width: 425px) {
+            background-image: url(${AboutClubPhone});
+        }
     }
 
     ::before{
@@ -26,23 +32,25 @@ const Box = styled.div`
         position: absolute;
         z-index: -1;
     }
-
-    width: 100%;
-    height: 100%;
 `
 
 const Text = styled.div`
     width: 50%;
-    margin-top: 5%;
-    margin-left: 2%;
+    margin-top: 5vh;
+    margin-left: 3vw;
     
     color: #fffafb;
     
-    font-size: 1.4vmax;
-    line-height: 30px;
-    word-spacing: 5px;
-    letter-spacing: 1.5px;
+    font-size: 1.5vw;
+    letter-spacing: 0.1vw;
+    line-height: 2vw;
     text-align: justify;
+
+    @media screen and (max-width: 425px) {
+        font-size: 2.5vw;
+        letter-spacing: 0.2vw;
+        line-height: 4.5vw;
+    }
 `
 
 function Introduction() {

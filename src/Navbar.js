@@ -5,13 +5,13 @@ import styled from 'styled-components'
 const StyledLink = styled(Link)`
     display: flex;
     align-items: center;
+    justify-content: center;
 
     text-decoration: none;
     text-align: center;
     color:#fffafb;
 
     padding: 0 10px 0 10px;
-    border-radius: 3px;
     
     transition: 0.5s;
     :hover {
@@ -21,18 +21,24 @@ const StyledLink = styled(Link)`
 `
 
 const Nav = styled.div`
-    display: flex;
-    justify-content: flex-end;
+    display: grid;
+    grid-template-columns: 70% 15% 15%;
+    grid-template-rows: 100%;
     height: 10vh;
+    font-size: 0.8rem;
+
+    @media screen and (max-width: 425px) {
+        font-size: 0.5rem;
+    }
 
     background-color: #090001;
     color:#fffafb;
 `
 
 const Title = styled.h2`
-    position: absolute;
-    left: 10px;
-    top: 0px;
+    display: flex;
+    align-items: center;
+    margin-left: 3vw;
 `
 
 function Navbar() {
