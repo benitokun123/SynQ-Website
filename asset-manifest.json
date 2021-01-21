@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SynQ-Website/static/css/main.e06d2149.chunk.css",
-    "main.js": "/SynQ-Website/static/js/main.4b24df27.chunk.js",
-    "main.js.map": "/SynQ-Website/static/js/main.4b24df27.chunk.js.map",
+    "main.js": "/SynQ-Website/static/js/main.9be58e51.chunk.js",
+    "main.js.map": "/SynQ-Website/static/js/main.9be58e51.chunk.js.map",
     "runtime-main.js": "/SynQ-Website/static/js/runtime-main.ec1aab9e.js",
     "runtime-main.js.map": "/SynQ-Website/static/js/runtime-main.ec1aab9e.js.map",
-    "static/js/2.b819804a.chunk.js": "/SynQ-Website/static/js/2.b819804a.chunk.js",
-    "static/js/2.b819804a.chunk.js.map": "/SynQ-Website/static/js/2.b819804a.chunk.js.map",
+    "static/js/2.e7019f0d.chunk.js": "/SynQ-Website/static/js/2.e7019f0d.chunk.js",
+    "static/js/2.e7019f0d.chunk.js.map": "/SynQ-Website/static/js/2.e7019f0d.chunk.js.map",
     "index.html": "/SynQ-Website/index.html",
     "static/css/main.e06d2149.chunk.css.map": "/SynQ-Website/static/css/main.e06d2149.chunk.css.map",
-    "static/js/2.b819804a.chunk.js.LICENSE.txt": "/SynQ-Website/static/js/2.b819804a.chunk.js.LICENSE.txt",
+    "static/js/2.e7019f0d.chunk.js.LICENSE.txt": "/SynQ-Website/static/js/2.e7019f0d.chunk.js.LICENSE.txt",
     "static/media/AboutClub.0c0d2a47.webp": "/SynQ-Website/static/media/AboutClub.0c0d2a47.webp",
     "static/media/AboutClubPhone.143c1a86.webp": "/SynQ-Website/static/media/AboutClubPhone.143c1a86.webp",
     "static/media/BoXian.webp": "/SynQ-Website/static/media/BoXian.cb742c93.webp",
@@ -25,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ec1aab9e.js",
-    "static/js/2.b819804a.chunk.js",
+    "static/js/2.e7019f0d.chunk.js",
     "static/css/main.e06d2149.chunk.css",
-    "static/js/main.4b24df27.chunk.js"
+    "static/js/main.9be58e51.chunk.js"
   ]
 }
