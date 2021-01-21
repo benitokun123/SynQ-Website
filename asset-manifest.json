@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SynQ-Website/static/css/main.e06d2149.chunk.css",
-    "main.js": "/SynQ-Website/static/js/main.9e7fa610.chunk.js",
-    "main.js.map": "/SynQ-Website/static/js/main.9e7fa610.chunk.js.map",
+    "main.js": "/SynQ-Website/static/js/main.9ef65aaa.chunk.js",
+    "main.js.map": "/SynQ-Website/static/js/main.9ef65aaa.chunk.js.map",
     "runtime-main.js": "/SynQ-Website/static/js/runtime-main.ec1aab9e.js",
     "runtime-main.js.map": "/SynQ-Website/static/js/runtime-main.ec1aab9e.js.map",
     "static/js/2.ec118a80.chunk.js": "/SynQ-Website/static/js/2.ec118a80.chunk.js",
@@ -13,12 +13,13 @@
     "static/media/AboutClub.0c0d2a47.webp": "/SynQ-Website/static/media/AboutClub.0c0d2a47.webp",
     "static/media/AboutClubPhone.143c1a86.webp": "/SynQ-Website/static/media/AboutClubPhone.143c1a86.webp",
     "static/media/Course.a8b11f5c.webp": "/SynQ-Website/static/media/Course.a8b11f5c.webp",
-    "static/media/CoursePhone.22cfd7ad.webp": "/SynQ-Website/static/media/CoursePhone.22cfd7ad.webp"
+    "static/media/CoursePhone.22cfd7ad.webp": "/SynQ-Website/static/media/CoursePhone.22cfd7ad.webp",
+    "static/media/Harry.26c21bda.webp": "/SynQ-Website/static/media/Harry.26c21bda.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.ec1aab9e.js",
     "static/js/2.ec118a80.chunk.js",
     "static/css/main.e06d2149.chunk.css",
-    "static/js/main.9e7fa610.chunk.js"
+    "static/js/main.9ef65aaa.chunk.js"
   ]
 }
