@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SynQ-Website/static/css/main.e06d2149.chunk.css",
-    "main.js": "/SynQ-Website/static/js/main.deb09f58.chunk.js",
-    "main.js.map": "/SynQ-Website/static/js/main.deb09f58.chunk.js.map",
+    "main.js": "/SynQ-Website/static/js/main.fb506040.chunk.js",
+    "main.js.map": "/SynQ-Website/static/js/main.fb506040.chunk.js.map",
     "runtime-main.js": "/SynQ-Website/static/js/runtime-main.ec1aab9e.js",
     "runtime-main.js.map": "/SynQ-Website/static/js/runtime-main.ec1aab9e.js.map",
     "static/js/2.b819804a.chunk.js": "/SynQ-Website/static/js/2.b819804a.chunk.js",
@@ -10,23 +10,23 @@
     "index.html": "/SynQ-Website/index.html",
     "static/css/main.e06d2149.chunk.css.map": "/SynQ-Website/static/css/main.e06d2149.chunk.css.map",
     "static/js/2.b819804a.chunk.js.LICENSE.txt": "/SynQ-Website/static/js/2.b819804a.chunk.js.LICENSE.txt",
-    "static/media/AboutClub.9db27cce.webp": "/SynQ-Website/static/media/AboutClub.9db27cce.webp",
-    "static/media/AboutClubPhone.9c5dfdd6.webp": "/SynQ-Website/static/media/AboutClubPhone.9c5dfdd6.webp",
-    "static/media/BoXian.webp": "/SynQ-Website/static/media/BoXian.6b98f0a4.webp",
+    "static/media/AboutClub.7cb3050e.webp": "/SynQ-Website/static/media/AboutClub.7cb3050e.webp",
+    "static/media/AboutClubPhone.77e7d490.webp": "/SynQ-Website/static/media/AboutClubPhone.77e7d490.webp",
+    "static/media/BoXian.webp": "/SynQ-Website/static/media/BoXian.219a0d66.webp",
     "static/media/Course.a8b11f5c.webp": "/SynQ-Website/static/media/Course.a8b11f5c.webp",
     "static/media/CoursePhone.22cfd7ad.webp": "/SynQ-Website/static/media/CoursePhone.22cfd7ad.webp",
-    "static/media/HY.webp": "/SynQ-Website/static/media/HY.af886af6.webp",
-    "static/media/Harry.webp": "/SynQ-Website/static/media/Harry.b1e7601c.webp",
-    "static/media/Haziq.webp": "/SynQ-Website/static/media/Haziq.5e27f125.webp",
-    "static/media/James.webp": "/SynQ-Website/static/media/James.4acde48e.webp",
-    "static/media/JingHan.webp": "/SynQ-Website/static/media/JingHan.19ad9b7f.webp",
-    "static/media/Nicholas.webp": "/SynQ-Website/static/media/Nicholas.a8c471f5.webp",
-    "static/media/Sri.webp": "/SynQ-Website/static/media/Sri.92816a11.webp"
+    "static/media/HY.webp": "/SynQ-Website/static/media/HY.4dfe2165.webp",
+    "static/media/Harry.webp": "/SynQ-Website/static/media/Harry.643790d3.webp",
+    "static/media/Haziq.webp": "/SynQ-Website/static/media/Haziq.e3497a95.webp",
+    "static/media/James.webp": "/SynQ-Website/static/media/James.90897131.webp",
+    "static/media/JingHan.webp": "/SynQ-Website/static/media/JingHan.5894521e.webp",
+    "static/media/Nicholas.webp": "/SynQ-Website/static/media/Nicholas.610196ab.webp",
+    "static/media/Sri.webp": "/SynQ-Website/static/media/Sri.bb9c1ab4.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.ec1aab9e.js",
     "static/js/2.b819804a.chunk.js",
     "static/css/main.e06d2149.chunk.css",
-    "static/js/main.deb09f58.chunk.js"
+    "static/js/main.fb506040.chunk.js"
   ]
 }
