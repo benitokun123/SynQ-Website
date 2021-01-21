@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/SynQ-Website/static/css/main.e06d2149.chunk.css",
+    "main.js": "/SynQ-Website/static/js/main.9be58e51.chunk.js",
+    "main.js.map": "/SynQ-Website/static/js/main.9be58e51.chunk.js.map",
+    "runtime-main.js": "/SynQ-Website/static/js/runtime-main.ec1aab9e.js",
+    "runtime-main.js.map": "/SynQ-Website/static/js/runtime-main.ec1aab9e.js.map",
+    "static/js/2.e7019f0d.chunk.js": "/SynQ-Website/static/js/2.e7019f0d.chunk.js",
+    "static/js/2.e7019f0d.chunk.js.map": "/SynQ-Website/static/js/2.e7019f0d.chunk.js.map",
+    "index.html": "/SynQ-Website/index.html",
+    "static/css/main.e06d2149.chunk.css.map": "/SynQ-Website/static/css/main.e06d2149.chunk.css.map",
+    "static/js/2.e7019f0d.chunk.js.LICENSE.txt": "/SynQ-Website/static/js/2.e7019f0d.chunk.js.LICENSE.txt",
+    "static/media/AboutClub.0c0d2a47.webp": "/SynQ-Website/static/media/AboutClub.0c0d2a47.webp",
+    "static/media/AboutClubPhone.143c1a86.webp": "/SynQ-Website/static/media/AboutClubPhone.143c1a86.webp",
+    "static/media/BoXian.webp": "/SynQ-Website/static/media/BoXian.cb742c93.webp",
+    "static/media/Course.a8b11f5c.webp": "/SynQ-Website/static/media/Course.a8b11f5c.webp",
+    "static/media/CoursePhone.22cfd7ad.webp": "/SynQ-Website/static/media/CoursePhone.22cfd7ad.webp",
+    "static/media/HY.webp": "/SynQ-Website/static/media/HY.7b31a3f3.webp",
+    "static/media/Harry.webp": "/SynQ-Website/static/media/Harry.9caeab28.webp",
+    "static/media/Haziq.webp": "/SynQ-Website/static/media/Haziq.2a59a6e4.webp",
+    "static/media/James.webp": "/SynQ-Website/static/media/James.5516fbdb.webp",
+    "static/media/JingHan.webp": "/SynQ-Website/static/media/JingHan.74e7388a.webp",
+    "static/media/Nicholas.webp": "/SynQ-Website/static/media/Nicholas.b6a0de81.webp",
+    "static/media/Sri.webp": "/SynQ-Website/static/media/Sri.a1b8bad5.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec1aab9e.js",
+    "static/js/2.e7019f0d.chunk.js",
+    "static/css/main.e06d2149.chunk.css",
+    "static/js/main.9be58e51.chunk.js"
+  ]
+}

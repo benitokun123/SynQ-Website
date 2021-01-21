@@ -15,6 +15,13 @@ const Box = styled.div`
     background-size: cover;
     background-position: center;
 
+    -webkit-transform: translateZ(0);
+
+    @media screen and (max-width: 425px) {
+        width: 45.5vw;
+        height: 45.5vw;
+    }
+
     :hover .title {
         bottom: 0;
     }
@@ -33,11 +40,14 @@ const Title = styled(WhiteText)`
     align-content: center;
     justify-content: center;
 
+    line-height: 1vh;
+
     position: absolute;
     bottom: 100%;
 
     background-color: rgb(0,0,0,0.4);
     transition: 0.5s ease;
+    -webkit-transform: translateZ(0);
 `
 
 function MemberCard(props) {
@@ -45,7 +55,7 @@ function MemberCard(props) {
         <Box src={props.pic}>
             <Title className="title">
                 <h5>{props.position}</h5>
-                <h4>{props.name}</h4>
+                <h3>{props.name}</h3>
             </Title>
         </Box>
     )

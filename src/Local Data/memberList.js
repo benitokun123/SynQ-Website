@@ -15,7 +15,7 @@ const memberList = [
         "pic": require("Media Content/Nicholas.webp").default
     },
     {
-        "name": "James Chua",
+        "name": "James",
         "position": "Media & Marketing",
         "pic": require("Media Content/James.webp").default
     },
