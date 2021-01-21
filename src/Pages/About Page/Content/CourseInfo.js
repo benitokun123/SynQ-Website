@@ -1,35 +1,17 @@
 import React from 'react';
 import styled from 'styled-components'
-import Course from '../../Media Content/Course.webp'
-import CoursePhone from '../../Media Content/CoursePhone.webp'
+import Course from 'Media Content/Course.webp'
+import CoursePhone from 'Media Content/CoursePhone.webp'
+import BlackText from 'Style Lib/BlackText'
 
 const InfoBox = styled.div`
     background-color: white;
-    color: black;
     display: flex;
     flex-direction: row;
 `
 
-const Text = styled.div`
-    margin-left: 3vw;
-    width: 50%;
-    
-    font-size: 1.5vw;
-    letter-spacing: 0.1vw;
-    line-height: 2vw;
-    text-align: justify;
-
-    @media screen and (max-width: 425px) {
-        font-size: 2.5vw;
-        letter-spacing: 0.1vw;
-        line-height: 4.5vw;
-    }
-`
-
 const Pic = styled.div`
-    margin-left: 3vw;
-    margin-bottom: 5vh;
-    margin-top: 6vh;
+    margin: 3vh 3vw 3vh 3vw;
 
     width: 40%;
     border-radius: 5%;
@@ -49,7 +31,7 @@ const Pic = styled.div`
 function CourseInfo() {
     return (
         <InfoBox>
-            <Text>
+            <BlackText>
                 <h3>Our DJ Course</h3>
                 <p>
                     In NUS DJ Collective, we value DJs who can handle any situation on the deck. 
@@ -71,7 +53,7 @@ function CourseInfo() {
                         </li>
                     </ul>
                 </p>
-            </Text>
+            </BlackText>
             <Pic/>
         </InfoBox>
     )
