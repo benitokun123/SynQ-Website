@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/benitokun123/SynQ-Website/static/css/main.e06d2149.chunk.css",
+    "main.js": "/benitokun123/SynQ-Website/static/js/main.ed394f9c.chunk.js",
+    "main.js.map": "/benitokun123/SynQ-Website/static/js/main.ed394f9c.chunk.js.map",
+    "runtime-main.js": "/benitokun123/SynQ-Website/static/js/runtime-main.02a06021.js",
+    "runtime-main.js.map": "/benitokun123/SynQ-Website/static/js/runtime-main.02a06021.js.map",
+    "static/js/2.d9047457.chunk.js": "/benitokun123/SynQ-Website/static/js/2.d9047457.chunk.js",
+    "static/js/2.d9047457.chunk.js.map": "/benitokun123/SynQ-Website/static/js/2.d9047457.chunk.js.map",
+    "index.html": "/benitokun123/SynQ-Website/index.html",
+    "static/css/main.e06d2149.chunk.css.map": "/benitokun123/SynQ-Website/static/css/main.e06d2149.chunk.css.map",
+    "static/js/2.d9047457.chunk.js.LICENSE.txt": "/benitokun123/SynQ-Website/static/js/2.d9047457.chunk.js.LICENSE.txt",
+    "static/media/AboutClub.0c0d2a47.webp": "/benitokun123/SynQ-Website/static/media/AboutClub.0c0d2a47.webp",
+    "static/media/AboutClubPhone.143c1a86.webp": "/benitokun123/SynQ-Website/static/media/AboutClubPhone.143c1a86.webp",
+    "static/media/Course.a8b11f5c.webp": "/benitokun123/SynQ-Website/static/media/Course.a8b11f5c.webp",
+    "static/media/CoursePhone.22cfd7ad.webp": "/benitokun123/SynQ-Website/static/media/CoursePhone.22cfd7ad.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02a06021.js",
+    "static/js/2.d9047457.chunk.js",
+    "static/css/main.e06d2149.chunk.css",
+    "static/js/main.ed394f9c.chunk.js"
+  ]
+}
