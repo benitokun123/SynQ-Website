@@ -56,6 +56,7 @@ function MemberCard(props) {
             <Title className="title">
                 <h5>{props.position}</h5>
                 <h3>{props.name}</h3>
+                <h5>{props.phone}</h5>
             </Title>
         </Box>
     )

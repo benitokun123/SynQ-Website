@@ -2,12 +2,14 @@ const memberList = [
     {
         "name": "Jing Han",
         "position": "President",
-        "pic": require("Media Content/JingHan.webp").default
+        "pic": require("Media Content/JingHan.webp").default,
+        "phone": "(+65) 8688 0425"
     },
     {
         "name": "Harry Tran",
         "position": "Vice President",
-        "pic": require("Media Content/Harry.webp").default
+        "pic": require("Media Content/Harry.webp").default,
+        "phone": "(+65) 9351 7498"
     },
     {
         "name": "Nicholas",
