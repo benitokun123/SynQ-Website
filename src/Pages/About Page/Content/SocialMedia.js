@@ -8,7 +8,7 @@ const IconBox = styled.div`
     display: flex;
     justify-content: space-around;
     
-    padding-top: 5vh;
+    padding-top: 2vh;
     padding-bottom: 5vh;
 `
 
@@ -50,19 +50,19 @@ function SocialMedia() {
             </BlackText>
             <IconBox>
                 <Facebook href="https://www.facebook.com/synqdjs/" target="_blank">
-                    <FontAwesomeIcon icon={faFacebookF} size="3x"/>
+                    <FontAwesomeIcon icon={faFacebookF} size="2x"/>
                 </Facebook>
 
                 <Instagram href="https://www.instagram.com/nussynq/" target="_blank">
-                    <FontAwesomeIcon icon={faInstagram} size="3x"/>
+                    <FontAwesomeIcon icon={faInstagram} size="2x"/>
                 </Instagram>
 
                 <Google href="mailto:nussynq@gmail.com" target="_blank">
-                    <FontAwesomeIcon icon={faGoogle} size="3x"/>
+                    <FontAwesomeIcon icon={faGoogle} size="2x"/>
                 </Google>
 
                 <Linkedin href="https://linkedin.com/company/nus-synq" target="_blank">
-                    <FontAwesomeIcon icon={faLinkedinIn} size="3x"/>
+                    <FontAwesomeIcon icon={faLinkedinIn} size="2x"/>
                 </Linkedin>
             </IconBox>
         </div>

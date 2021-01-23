@@ -21,10 +21,8 @@ const Pic = styled.div`
     background-position: center;
 
     @media screen and (max-width: 425px) {
-        margin-left: 5vw;
-        margin-bottom: 3vh;
-        margin-top: 4vh;
         background-image: url(${CoursePhone});
+        background-position: 35% center;
     }
 `
 
