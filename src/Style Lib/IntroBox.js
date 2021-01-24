@@ -9,7 +9,7 @@ const IntroBox = styled.div`
         background-color: rgba(0,0,0,0.45);
         background-image: url(${props => props.image});
         background-size: cover;
-        background-position: center;
+        background-position: 20% center;
         background-blend-mode: multiply;
         top: 0;
         left: 0;
