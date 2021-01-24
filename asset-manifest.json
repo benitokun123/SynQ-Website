@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SynQ-Website/static/css/main.9fd0536c.chunk.css",
-    "main.js": "/SynQ-Website/static/js/main.ac1ac1a5.chunk.js",
-    "main.js.map": "/SynQ-Website/static/js/main.ac1ac1a5.chunk.js.map",
+    "main.js": "/SynQ-Website/static/js/main.a2b74a50.chunk.js",
+    "main.js.map": "/SynQ-Website/static/js/main.a2b74a50.chunk.js.map",
     "runtime-main.js": "/SynQ-Website/static/js/runtime-main.ec1aab9e.js",
     "runtime-main.js.map": "/SynQ-Website/static/js/runtime-main.ec1aab9e.js.map",
     "static/js/2.989f0c6b.chunk.js": "/SynQ-Website/static/js/2.989f0c6b.chunk.js",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.ec1aab9e.js",
     "static/js/2.989f0c6b.chunk.js",
     "static/css/main.9fd0536c.chunk.css",
-    "static/js/main.ac1ac1a5.chunk.js"
+    "static/js/main.a2b74a50.chunk.js"
   ]
 }
