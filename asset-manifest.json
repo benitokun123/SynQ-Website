@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SynQ-Website/static/css/main.e06d2149.chunk.css",
-    "main.js": "/SynQ-Website/static/js/main.1b83b4e3.chunk.js",
-    "main.js.map": "/SynQ-Website/static/js/main.1b83b4e3.chunk.js.map",
+    "main.css": "/SynQ-Website/static/css/main.9fd0536c.chunk.css",
+    "main.js": "/SynQ-Website/static/js/main.75e14d6b.chunk.js",
+    "main.js.map": "/SynQ-Website/static/js/main.75e14d6b.chunk.js.map",
     "runtime-main.js": "/SynQ-Website/static/js/runtime-main.ec1aab9e.js",
     "runtime-main.js.map": "/SynQ-Website/static/js/runtime-main.ec1aab9e.js.map",
-    "static/js/2.5ac16f26.chunk.js": "/SynQ-Website/static/js/2.5ac16f26.chunk.js",
-    "static/js/2.5ac16f26.chunk.js.map": "/SynQ-Website/static/js/2.5ac16f26.chunk.js.map",
+    "static/js/2.989f0c6b.chunk.js": "/SynQ-Website/static/js/2.989f0c6b.chunk.js",
+    "static/js/2.989f0c6b.chunk.js.map": "/SynQ-Website/static/js/2.989f0c6b.chunk.js.map",
     "index.html": "/SynQ-Website/index.html",
-    "static/css/main.e06d2149.chunk.css.map": "/SynQ-Website/static/css/main.e06d2149.chunk.css.map",
-    "static/js/2.5ac16f26.chunk.js.LICENSE.txt": "/SynQ-Website/static/js/2.5ac16f26.chunk.js.LICENSE.txt",
+    "static/css/main.9fd0536c.chunk.css.map": "/SynQ-Website/static/css/main.9fd0536c.chunk.css.map",
+    "static/js/2.989f0c6b.chunk.js.LICENSE.txt": "/SynQ-Website/static/js/2.989f0c6b.chunk.js.LICENSE.txt",
     "static/media/AboutClub.7cb3050e.webp": "/SynQ-Website/static/media/AboutClub.7cb3050e.webp",
     "static/media/AboutClubPhone.77e7d490.webp": "/SynQ-Website/static/media/AboutClubPhone.77e7d490.webp",
     "static/media/BoXian.webp": "/SynQ-Website/static/media/BoXian.219a0d66.webp",
@@ -21,14 +21,14 @@
     "static/media/James.webp": "/SynQ-Website/static/media/James.90897131.webp",
     "static/media/JingHan.webp": "/SynQ-Website/static/media/JingHan.5894521e.webp",
     "static/media/Nicholas.webp": "/SynQ-Website/static/media/Nicholas.610196ab.webp",
-    "static/media/SignUpBg.2b1e1d47.jpg": "/SynQ-Website/static/media/SignUpBg.2b1e1d47.jpg",
-    "static/media/SignUpBgPhone.04e37cb4.jpg": "/SynQ-Website/static/media/SignUpBgPhone.04e37cb4.jpg",
+    "static/media/SignUpBg.2ab8272d.jpg": "/SynQ-Website/static/media/SignUpBg.2ab8272d.jpg",
+    "static/media/SignUpBgPhone.8b11f6c2.jpg": "/SynQ-Website/static/media/SignUpBgPhone.8b11f6c2.jpg",
     "static/media/Sri.webp": "/SynQ-Website/static/media/Sri.bb9c1ab4.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.ec1aab9e.js",
-    "static/js/2.5ac16f26.chunk.js",
-    "static/css/main.e06d2149.chunk.css",
-    "static/js/main.1b83b4e3.chunk.js"
+    "static/js/2.989f0c6b.chunk.js",
+    "static/css/main.9fd0536c.chunk.css",
+    "static/js/main.75e14d6b.chunk.js"
   ]
 }
