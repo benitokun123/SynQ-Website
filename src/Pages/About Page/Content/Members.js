@@ -7,11 +7,13 @@ import WhiteText from 'Style Lib/WhiteText'
 const Box = styled.div`
     background-color: rgb(20,20,20,0.3);
     height: auto;
-    padding-top: 3vh;
+    padding-top: 15vh;
+
+    clip-path: polygon(50% 0%, 0 10vh, 0% 100%, 100% 100%, 100% 10vh);
 `
 
 const MemberBox = styled.div`
-    padding-bottom: 5vh;
+    padding-bottom: 2vh;
     padding-left: 3vw;
     display: flex;
     flex-wrap: wrap;

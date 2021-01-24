@@ -18,6 +18,8 @@ const IntroBox = styled.div`
         position: absolute;
         z-index: -2;
 
+        clip-path: polygon(0 0, 0 85vh, 50% 100%, 100% 85vh, 100% 0);
+
         @media screen and (max-width: 425px) {
             background-image: url(${props => props.imagePhone});
         }

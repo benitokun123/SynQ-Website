@@ -15,8 +15,6 @@ const Box = styled.div`
     background-size: cover;
     background-position: center;
 
-    -webkit-transform: translateZ(0);
-
     @media screen and (max-width: 425px) {
         width: 45.5vw;
         height: 45.5vw;

@@ -23,6 +23,10 @@ const SubmitButton = styled.button.attrs({type: "submit"})`
         background-color: lightblue;
         outline: none;
     }    
+    :focus {
+        outline: none;
+    }
 
+    --webkit-transform: translateZ(0);
 `
 export default SubmitButton

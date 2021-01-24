@@ -88,6 +88,7 @@ function SignUpForm() {
                 </FieldContainer>
 
                 <SubmitButton type="submit">Submit</SubmitButton>
+                <br/><br/>
             </Form>
         </Formik>
     )

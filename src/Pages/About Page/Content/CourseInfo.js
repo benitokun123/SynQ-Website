@@ -14,7 +14,7 @@ const Pic = styled.div`
     margin: 3vh 3vw 3vh 3vw;
 
     width: 40%;
-    border-radius: 5%;
+    border-radius: 5px;
 
     background-image: url(${Course});
     background-size: cover;
