@@ -40,7 +40,8 @@ function CourseInfo() {
                     Our course includes:
                     <br/>
                     <ul style={{paddingLeft: '2vw'}}>
-                        <li>8 lessons covering fundamental DJing topics: song structure, beatmatching, 
+                        <li>
+                            8 lessons covering fundamental DJing topics: song structure, beatmatching, 
                             transition, and song selection.
                         </li>
                         <li>
@@ -50,6 +51,7 @@ function CourseInfo() {
                             Final evaluation for you to perform live with your favorite music.
                         </li>
                     </ul>
+                    Course fee: <h3 style={{color: 'green', display: 'inline'}}>S$210</h3>
                 </p>
             </BlackText>
             <Pic/>
