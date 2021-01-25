@@ -25,6 +25,7 @@ const Nav = styled.div`
     grid-template-columns: 70% 15% 15%;
     grid-template-rows: 100%;
     height: 10vh;
+    width: 100vw;
     font-size: 0.8rem;
 
     @media screen and (max-width: 425px) {
