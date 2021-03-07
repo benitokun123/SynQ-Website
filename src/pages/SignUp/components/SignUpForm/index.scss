@@ -1,0 +1,38 @@
+.SignUpForm {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.InputContainer {
+    padding: 2rem;
+    width: 80%;
+    border-radius: 2rem;
+    background: black;
+
+    display: flex;
+    flex-direction: column;
+
+    @media screen and (min-width: 768px) {
+        width: 50%;
+    }
+}
+
+.InputContainer button{
+    align-self: center;
+
+    width: fit-content;
+    padding: 0.5rem 2rem 0.5rem 2rem;
+    border-radius: 2rem;
+    
+    font-size: 1rem;
+    color: white;
+    background: #2195EE;
+
+    border: none;
+    cursor: pointer;
+}
+
+.InputContainer button:focus{
+    outline: none;
+}

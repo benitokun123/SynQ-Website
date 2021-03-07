@@ -1,0 +1,30 @@
+.Navbar {
+    position: relative;
+    background: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Title {
+    color: white;
+    align-self: center;
+    margin-left: 0.5rem;
+    font-weight: bold;
+}
+
+.Link {
+    display: inline-block;
+    color: white;
+    padding: 0.5rem;
+    transition: all 0.25s ease;
+}
+
+.Link:hover {
+    color: black;
+    background: white;
+}
+
+.Menu .active {
+    color: black;
+    background: white;
+}

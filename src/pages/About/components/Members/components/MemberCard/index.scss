@@ -1,0 +1,49 @@
+.MemberCard {
+    position: relative;
+    width: 45vw;
+    height: 45vw;
+    overflow: hidden;
+    cursor: pointer;
+    margin-bottom: 1rem;
+
+    @media screen and (min-width: 768px) {
+        width: 20vw;
+        height: 20vw;
+    }
+
+    font-size: 1.2rem;
+}
+
+.MemberCard:focus {
+    outline: none;
+}
+
+.MemberCard img {
+    width: 100%;
+    height: 100%;
+}
+
+.MemberCard div {
+    position: absolute;
+    left:0;
+    
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+    background: rgba(0,0,0,0.25);
+    color: white;
+
+    transition: all 0.5s ease;
+
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+}
+
+.MemberCard div h5{
+    margin: 0;
+}

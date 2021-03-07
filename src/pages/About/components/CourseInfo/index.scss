@@ -1,0 +1,25 @@
+.CourseInfo {
+    padding: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.CourseContent {
+    width: 50%;
+}
+
+.CoursePic {
+    align-self: center;
+    width: 45%;
+    height: 60vh;
+    border-radius: 10px;
+    background-image: url('../../assets/CoursePhone.webp');
+    background-size: cover;
+    background-position: 60% center;
+
+    @media screen and (min-width: 768px) {
+        background-image: url('../../assets/Course.webp');
+        height: 90vh;
+        background-position: center 10%;
+    }
+}

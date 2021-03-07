@@ -1,0 +1,25 @@
+.TextInput {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2rem;
+}
+
+.TextInput .field {
+    border: none;
+    border-radius: 1rem;
+    
+    height: 2rem;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    
+    background: #E8F0FE;
+}
+
+.TextInput .field:focus {
+    outline: none;
+}
+
+.TextInput .error {
+    font-size: 0.8rem;
+    color: #FF2400;
+}
