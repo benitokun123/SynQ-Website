@@ -1,20 +1,23 @@
 .Contact {
     position: fixed;
-    top: 50%;
-    margin-top: -10rem;
+    
+    left:50%;
+    margin-left: -10rem;
 
     display: flex;
+    flex-direction: column;
 
     background: rgba(0,0,0,0.5);
     outline: 0.5px solid white;
 
-    transition: left 0.25s ease;
+    transition: bottom 0.25s ease;
     
     font-size: 2rem;
 }
 
 .Contact a {
-    margin-bottom: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
     text-align: center;
     color: white;
 }
@@ -24,8 +27,8 @@
 }
 
 .List {
+    height: 2.5rem;
     display: flex;
-    flex-direction: column;
 }
 
 .Arrow {
