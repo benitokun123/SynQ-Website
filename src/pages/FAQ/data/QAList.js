@@ -9,7 +9,7 @@ const QAList = [
     },
     {
         question: "How do I become a member of NUS DJ Collective?",
-        answer: "You may join the club by completing our Basic DJ Course or arranging with us for a private evaluation."
+        answer: "You can join the club by completing our Basic DJ Course or arranging with us for a private evaluation."
     },
     {
         question: "What are the perks of being a member of NUS DJ Collective?",

@@ -78,11 +78,12 @@ function SignUpForm() {
                         
                         <CheckBox name="consent" 
                                 description="By checking this box, you are giving 
-                                full consent to synQ collecting, using and/or disclosing your personal data  
+                                full consent to NUS DJ Collective collecting, using and disclosing your personal data  
                                 for purposes in compliance with the PDPA 2012."/>
                         
-                        <button type="submit">Submit</button> 
-                        {formik.isSubmitting && <div className="msg">...Submitting</div>}
+                        <button type="submit" disabled={formik.isSubmitting || submitted}>Submit</button> 
+                        
+                        {formik.isSubmitting && <div className="loader"></div>}
                         
                         {submitted && <div className="msg">Thank you for submitting! We will contact you soon!</div>}
                     </div>
