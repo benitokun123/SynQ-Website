@@ -5,8 +5,8 @@ function CourseInfo() {
     return (
         <div className="CourseInfo">
             <div className="CourseContent">
-                <h4>Our DJ Course</h4>
-                <p>
+                <h4>Our Basic DJ Course</h4>
+                <div>
                     In NUS DJ Collective, we value DJs who can handle any situation on the deck. 
                     When joining our DJ course, you will be taken back to the old time when 
                     DJs didn't have any visual DJ software and relied entirely on their 
@@ -28,7 +28,7 @@ function CourseInfo() {
                     </ul>
                     Duration: every first semester of NUS academic year<br/>
                     Course fee: <h3 style={{color: 'green', display: 'inline'}}>S$210</h3>
-                </p>
+                </div>
             </div>
             <div className="CoursePic"/>
         </div>

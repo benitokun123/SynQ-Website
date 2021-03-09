@@ -4,7 +4,7 @@ import MemberCard from './components/MemberCard';
 import memberList from './data/memberList';
 
 function Members() {
-    const memberCards = memberList.map(member => <MemberCard {...member}/>)
+    const memberCards = memberList.map(member => <MemberCard key={member.name} {...member}/>)
     
     return (
         <div className="Members">

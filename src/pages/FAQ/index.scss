@@ -1,5 +1,19 @@
 .FAQ {
+    padding: 2rem;
     display: flex;
     flex-direction: column;
     align-items: center;
+    min-height: 100vh;
+}
+
+.FAQ a {
+    color: #3366BB;
+}
+
+.FAQ .Message {
+    width: 90vw;
+    text-align: center;
+    @media screen and (min-width: 768px) {
+        width: 70vw;    
+    }
 }

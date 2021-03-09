@@ -64,6 +64,8 @@ function SignUpForm() {
             {formik => (
                 <Form className="SignUpForm">
                     <div className="InputContainer">
+                        <h3>Sign up for the Basic DJ Course</h3>
+                        
                         <TextInput name="fullName" type="text" description="Full Name"/>
                         
                         <TextInput name="email" type="email" description="Email"/>
@@ -82,7 +84,7 @@ function SignUpForm() {
                         <button type="submit">Submit</button> 
                         {formik.isSubmitting && <div className="msg">...Submitting</div>}
                         
-                        {submitted && <div className="msg">Thank you for submitting!</div>}
+                        {submitted && <div className="msg">Thank you for submitting! We will contact you soon!</div>}
                     </div>
                 </Form>
             )}
