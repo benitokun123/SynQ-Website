@@ -1,0 +1,23 @@
+.QACard {
+    width: 80vw;
+    margin: 1rem;
+    color: white;
+
+    @media screen and (min-width: 768px) {
+        width: 60vw;
+    }
+}
+
+.QACard .Question {
+    cursor: pointer;
+    padding: 1rem;
+    background-color: black;
+}
+
+.QACard .Answer {
+    overflow: hidden;
+    transition: opacity 1s ease, max-height 0.75s ease;
+    background: grey;
+    transform: translateZ(0);
+    --webkit-transform: translateZ(0);
+}

@@ -6,7 +6,7 @@ import Contact from './components/Contact'
 
 import About from './pages/About'
 import SignUp from './pages/SignUp'
-// import FAQ from './Pages/FAQ Page/FAQ'
+import FAQ from './pages/FAQ'
 
 import {AnimatePresence} from 'framer-motion'
 
@@ -21,7 +21,7 @@ function App() {
         <Switch location={location} key={location.pathname}>
           <Route exact path="/" component={About} />
           <Route exact path="/SignUp" component={SignUp}/>
-          <Route exact path="/"  />
+          <Route exact path="/FAQ" component={FAQ} />
         </Switch>
       </AnimatePresence>
       <Contact/>
